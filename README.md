@@ -16,4 +16,4 @@ var value = ease.GetValue(0.5f, overshoot: 2f);
 
 ## References
 
-Equations are taken [here](https://easings.net/).
+Equations are taken from [here](https://easings.net/).
